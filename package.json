@@ -1,0 +1,10 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Ambiente de estudo de javascript",
+  "main": "index.js",
+  "repository": "https://github.com/alysonfs/docker-dev-environment.git",
+  "author": "Moldato Soluções Tecnológicas <contato@moldato.com> (http://moldato.com)",
+  "license": "MIT",
+  "private": false
+}
